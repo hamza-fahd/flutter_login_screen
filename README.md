@@ -5,8 +5,7 @@
 ## لقطات الشاشة (Screenshots)
 
 <p align="center">
-  <img src="Screenshot1.png" width="200" />
-  <img src="Screenshot2.png" width="200" />
-  <img src="Screenshot3.png" width="200" />
-  <img src="Screenshot4.png" width="200" />
+  <img src="Screen1.jpg" width="200" />
+  <img src="Screen2.jpg" width="200" />
+  <img src="Screen3.jpg" width="200" />
 </p>
